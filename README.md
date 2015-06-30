@@ -6,7 +6,7 @@ We've started this as a simple and minimal plugin for landing pages.
 
 
 
-##**Version 0.1**
+##**Version 0.0.1**
 For now you add a class to selected elements
 
 
