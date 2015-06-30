@@ -1,0 +1,32 @@
+{
+  "name": "onScreen",
+  "version": "0.0.0",
+  "homepage": "https://github.com/BeyonIdeas/onScreen",
+  "authors": [
+    "andreCosta <andre.costa@beyonideas.com>"
+  ],
+  "description": "A jQuery plugin that acts when matched elements are visible in the viewport.",
+  "main": "jquery_onScreen.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "onScreen",
+    "is",
+    "visible",
+    "on",
+    "screen",
+    "viewport"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
